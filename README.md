@@ -1,1 +1,1 @@
-# my-super-mac
+# my-awesome-mac
